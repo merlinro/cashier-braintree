@@ -15,7 +15,7 @@
         "braintree/braintree_php": "~3.38",
         "dompdf/dompdf": "^0.8.0",
         "illuminate/contracts": "~5.7.0|~5.8.0|~5.9.0",
-        "illuminate/database": "~5.7.0|~5.8.0|~5.9.0",
+        "illuminate/database": "~5.7.0|~5.8.0|~5.9.0|v6.17.1",
         "illuminate/http": "~5.7.0|~5.8.0|~5.9.0",
         "illuminate/routing": "~5.7.0|~5.8.0|~5.9.0",
         "illuminate/support": "~5.7.0|~5.8.0|~5.9.0",
